@@ -12,7 +12,7 @@
   - 본 프로젝트는 **2024 서울대학교 LnL의 "뇌과학으로 바라보는 인공지능" 학생자율세미나**에서 진행되었습니다.  
   - Meta의 **Segment Anything Model 2 (SAM2)** 를 적용하여 사용자가 클릭한 객체를 실시간으로 세그먼트(분할)하고, 해당 객체가 화면 중앙에 위치하도록 서보모터로 웹캠을 제어합니다.
   - Prompt(마우스 클릭)만으로 다양한 물체를 빠르게 추적할 수 있으므로, 홈캠·로봇 비전·MR 등 다양한 분야에 적용할 수 있습니다.
-
+  - 추가 설명 : [github-blog Link](https://sawo0150.github.io/RealTime-SAM2-Tracker-Camera/)
 <br/>
 
 ### 2. Team Members & Roles
